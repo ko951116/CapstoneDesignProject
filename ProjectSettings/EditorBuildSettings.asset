@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 28d3c031d2cd200499e75e5c21c16d9e
+  - enabled: 0
+    path: 
+    guid: 0b51eca0ff67bb34cac2f75f37f89f54
+  - enabled: 0
+    path: 
+    guid: 9d581804541f09b4fbc8aade663cf07b
+  - enabled: 0
+    path: 
+    guid: ca8025ec116208e48b89c66f724b1a33
+  - enabled: 0
+    path: 
+    guid: b1889e1e3fff822468f76284b30833f0
+  - enabled: 1
+    path: Assets/Scenes/LogIn.unity
+    guid: 8b374091c2608c949ac7daacefc2ebd9
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5c65ddb0edc36014ead6dbdb7ea8dbd7
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokMenu.unity
+    guid: aed0cfedeac4c8a4a9cbcf2d264468eb
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/1.1.unity
+    guid: 08d96290f24b8604bb1deafc190ff5da
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/2.unity
+    guid: 07a9523a0f16c08458ac3243c85d731b
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/3.1.unity
+    guid: 2caa8b4df3cea0f42a11e7409d47552b
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/3.2.unity
+    guid: 575b1b0ae2cfd5c4f874b623a1d232ea
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/4.1.unity
+    guid: b1cfca6875248e14ca5792d0912473f5
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/4.2.unity
+    guid: 86b6359d0664da348b129837645f22be
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/4.3.unity
+    guid: b9ba2f60d3cd22349a253098bbd7fb18
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/5.1.unity
+    guid: 7f13809e442cc50488924859ab1f8e0f
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/5.2.unity
+    guid: 4dded0f22e789534fa9e356c6f3d4ffb
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/6.1.unity
+    guid: 0a8a5934f85c52d4eab05a27faabcc16
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/6.2.unity
+    guid: 0f8d342e526f35a438a3dd2b0d99cf4d
+  - enabled: 0
+    path: Assets/Scenes/GyeongbokTour/7.unity
+    guid: a9b3a063573d73342baf5e25f6bb8121
+  - enabled: 0
+    path: 
+    guid: cc0ffb262cf2a984ba0800fe94313e34

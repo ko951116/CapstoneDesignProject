@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "histovry", "histovry.csproj", "{DD2735B0-D515-7425-CA62-47A40A320FBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "histovry.Editor", "histovry.Editor.csproj", "{EEDE9A07-1CD0-AEC2-1471-36FE7CA3958D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2735B0-D515-7425-CA62-47A40A320FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2735B0-D515-7425-CA62-47A40A320FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2735B0-D515-7425-CA62-47A40A320FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2735B0-D515-7425-CA62-47A40A320FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDE9A07-1CD0-AEC2-1471-36FE7CA3958D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDE9A07-1CD0-AEC2-1471-36FE7CA3958D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDE9A07-1CD0-AEC2-1471-36FE7CA3958D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDE9A07-1CD0-AEC2-1471-36FE7CA3958D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
